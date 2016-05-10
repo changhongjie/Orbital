@@ -1,0 +1,20 @@
+git init
+	Initialises new repository
+
+git add <filename>
+	Adds files from working directory to staging area
+
+git commit -m "xxx"
+	Commits new version to repository
+
+git log
+	Shows history of all commits
+
+git status
+	Shows if file changes have been staged or to be committed
+
+git diff
+	Checks if there is a diff between staging area and working directory
+
+git clone <url>
+	clones the git repository from online to local folder
